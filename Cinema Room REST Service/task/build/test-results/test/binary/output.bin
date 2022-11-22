@@ -1,0 +1,61 @@
+[1;31m
+Start test 1[0m
+	[0;34m
+4[0m[0;34m  .   ____          _            __ _ _
+5[0m[0;34m /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+6[0m[0;34m( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+7[0m[0;34m \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+6[0m[0;34m  '  |____| .__|_| |_|_| |_\__, | / / / /
+5[0m[0;34m =========|_|==============|___/=/_/_/_/
+7[0m[0;34m :: Spring Boot ::                (v2.5.6)
+[0m[0;34m
+ç[0m[0;34m2022-11-22 23:29:56.023  INFO 4432 --- [    Test worker] cinema.Main                              : Starting Main using Java 17.0.5 on LAPTOP-HQGEGQCV with PID 4432 (started by seva5 in D:\Java_Backend\Cinema Room REST Service\Cinema Room REST Service\task)
+∞[0m[0;34m2022-11-22 23:29:56.026  INFO 4432 --- [    Test worker] cinema.Main                              : No active profile set, falling back to default profiles: default
+ù[0m[0;34m2022-11-22 23:29:57.406  INFO 4432 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 28852 (http)
+â[0m[0;34m2022-11-22 23:29:57.423  INFO 4432 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+ü[0m[0;34m2022-11-22 23:29:57.424  INFO 4432 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+¢[0m[0;34m2022-11-22 23:29:57.563  INFO 4432 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+Ø[0m[0;34m2022-11-22 23:29:57.563  INFO 4432 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1484 ms
+•[0m[0;34m2022-11-22 23:29:58.491  INFO 4432 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+¨[0m[0;34m2022-11-22 23:29:58.546  INFO 4432 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 28852 (http) with context path ''
+•[0m[0;34m2022-11-22 23:29:58.561  INFO 4432 --- [    Test worker] cinema.Main                              : Started Main in 2.961 seconds (JVM running for 3.829)
+•[0;34m2022-11-22 23:29:58.938  INFO 4432 --- [io-28852-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+ò[0m[0;34m2022-11-22 23:29:58.938  INFO 4432 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+ê[0m[0;34m2022-11-22 23:29:58.940  INFO 4432 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+[0m[1;31m
+Start test 2[0m
+[1;31m
+Start test 3[0m
+[1;31m
+Start test 4[0m
+[1;31m
+Start test 5[0m
+[1;31m
+Start test 6[0m
+[0;34muuid
+=[0m[0;34m{"token":"3243832d-20e5-474c-95ac-59bee8f8b2d8"}
+[0m[0;34mcmp
+1[0m[0;34m3243832d-20e5-474c-95ac-59bee8f8b2d8
+[0;34muuid
+=[0m[0;34m{"token":"eec845b3-44c5-475e-aa76-f06729ca9007"}
+[0m[0;34mcmp
+1[0m[0;34meec845b3-44c5-475e-aa76-f06729ca9007
+[1;31m
+Start test 7[0m
+[1;31m
+Start test 8[0m
+[0;34mpassword=super_secret
+[1;31m
+Start test 9[0m
+[1;31m
+Start test 10[0m
+[0;34mpassword=super_secret
+[1;31m
+Start test 11[0m
+[0;34muuid
+=[0m[0;34m{"token":"b2ebf14b-e5f6-44b3-9d0b-c083f86535da"}
+[0m[0;34mcmp
+1[0m[0;34mb2ebf14b-e5f6-44b3-9d0b-c083f86535da
+[1;31m
+Start test 12[0m
+[0;34mpassword=super_secret
